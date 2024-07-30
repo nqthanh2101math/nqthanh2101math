@@ -5,7 +5,7 @@
 
 ***My Second Bachelor Degree:*** B.S. in Mathematics 2024 - Present at Dalat University, Vietnam.
 
-***My First Master Degree:*** M.S. in in Financial Mathematics 2024 - Present at WorldQuant University, United Stated.
+***My First Master Degree:*** M.S. in Financial Mathematics 2024 - Present at WorldQuant University, United Stated.
 
 ***My Second Master Degree:*** M.S. in Applied Mathematics 2024 - Present at Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam.
 
