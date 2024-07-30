@@ -1,11 +1,13 @@
 # 💫About Me :
-Hi 👋 I am Nguyen Quoc Thanh, 22 years old. 
+Hi 👋 I am Nguyen Quoc Thanh, 22 years old and upcoming to 23 years old.
 
-B.S. in Finance and Banking 2020 - 2023 at UEH University, Vietnam.
+***My First Bachelor Degree:*** B.S. in Finance and Banking 2020 - 2023 at UEH University, Vietnam.
 
-B.S. in Mathematics 2024 - Present at Dalat University, Vietnam.
+***My Second Bachelor Degree:*** B.S. in Mathematics 2024 - Present at Dalat University, Vietnam.
 
-M.S. in Statistics started in December 2024 at the University of Science VNU-HCM, Viet Nam.
+***My First Master Degree:*** M.S. in in Financial Mathematics 2024 - Present at WorldQuant University, United Stated.
+
+***My Second Master Degree:*** M.S. in Applied Mathematics 2024 at Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam.
 
 💬 Ask me about Mathematics (Statistics), Economic Finance, Machine Learning, and Data science.
 
