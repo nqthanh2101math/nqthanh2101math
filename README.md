@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi 👋 I am Nguyen Quoc Thanh, 22 years old and upcoming to 23 years old.
+***Hi 👋 I am Nguyen Quoc Thanh, 22 years old and upcoming to 23 years old.***
 
 ***My First Bachelor Degree:*** B.S. in Finance and Banking 2020 - 2023 at UEH University, Vietnam.
 
