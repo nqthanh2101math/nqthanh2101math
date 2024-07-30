@@ -7,7 +7,7 @@
 
 ***My First Master Degree:*** M.S. in in Financial Mathematics 2024 - Present at WorldQuant University, United Stated.
 
-***My Second Master Degree:*** M.S. in Applied Mathematics 2024 at Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam.
+***My Second Master Degree:*** M.S. in Applied Mathematics 2024 - Present at Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam.
 
 💬 Ask me about Mathematics (Statistics), Economic Finance, Machine Learning, and Data science.
 
